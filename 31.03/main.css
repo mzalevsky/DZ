@@ -1,0 +1,27 @@
+.text {
+	background-color: rgb(180, 180, 129);
+	border: solid 10px rgb(0, 0, 0);
+
+  }
+
+ .title{
+	border: 3mm ridge rgb(103, 103, 103);
+	background-color: #000000; 
+	color: rgb(180, 180, 129);
+	
+
+ }
+
+ .text1 {
+    margin: 20px;
+    padding: 10px;
+}
+
+.full{
+	border: 5mm ridge rgb(103, 103, 103);
+	background-color: rgb(180, 180, 129); 
+	color: rgb(0, 0, 0);
+	font-size: 18px;
+	
+	
+}
